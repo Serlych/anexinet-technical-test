@@ -17,7 +17,7 @@ function transposeMatrix(matrix) {
         });
     })
     
-    console.log(result);
+    console.table(result);
     return result;
 }
 
